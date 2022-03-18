@@ -5,9 +5,7 @@
   --black: #222;
   --gray: #666;
 }
-body {
-  background: red;
-}
+
 * {
   margin: 0;
   padding: 0;
